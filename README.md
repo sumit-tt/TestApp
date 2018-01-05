@@ -1,3 +1,3 @@
 # TestApp
 
-Learning Github using TestAppProject
+Just a test application
